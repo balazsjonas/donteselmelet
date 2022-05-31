@@ -159,16 +159,116 @@ Probléma más modellekkel: "definiáljuk a célt és ehhez keressünk eszközt"
 * Komplex döntési helyzetben alkalmazható
 * nagyszámú, komplex esemény, távoli cél
 * nem lehet minden alternatívát összehasonlítani
-* A DH a múltbeli hasonló alternatívák tényleges eredményeivel hasonlítja össze
+* A DH a múltbeli hasonló alternatívák tényleges **eredményeivel** hasonlítja össze
 * nincsenek cél-eszköz összevetések
 * nincsen részletes információnk
 * a nagy hibákat elkerülhetjük
 * Az elején nem tudjuk, hogyan érjük el a célt
 * A változások kis lépésben következnek be, nem ugrásszerűen
 
+**Bizontalanság kezelése**
+
+***TODO máshova jobban passzol?***
+
+Igyekszünk a bizonytalanságot egyszerűsíteni, csökkenteni, értelmezhetővé tenni
+
+* Kvantitatív jellemzők felülértékelése
+* Időpreferencia
+* Egyszerű információk, számítások
+* Kielégítő döntések
+* Jövőre vonatkozó észlelt elvárások szerepe
 
 ## Viselkedéstudomány
+
 ## Korlátozott racionalitás
+
+### Racionalitás fogalmak
+1. Formális racionalitás
+   * axiomák, szabályok, algoritmusok
+   * 4 dilemma, amiről feltételezzük, hogy meg tudjuk válaszolni
+     1. Milyen cslekedetek lehetségesek
+     2. Mi a következményük és ezek valószínűsége
+     3. Preferencia
+     4. Milyen döntéshozatali szabály szerint kell dönteni
+2. Szubsztantív racionalitás
+   * Kevésbé szigorú megkötésekkel él
+   * Adott értékrendszer mellett teszteli a döntések eredményét
+   * Azt vizsgálja, hogy az eredmény mennyire tekinthető helyesnek
+3. Procedúrális racionalitás
+   * A folyamatra koncentrál
+   * Ha a folyamat végig megy, racionálisnak tekinti a döntést
+   * Azt vizsgálja, mennyire hatékony a döntéshozó cselekvései kiválasztásához alkalmazott eljárásai figyelembe véve az emberek kognitív képességeit és korlátait
+4. Célracionalitás (Max Weber)
+   * "cél szentesíti az eszközt"
+   * Minden eszköz felhasználható
+   * A célracionalitás szempontjából az értékracionalitás mindig irracionális
+   * A cselekvést a célok, eszközök és következmények irányítják
+5. Értékracionalitás (Max Weber)
+   * Tisztán értékracionálisan cselekszik, aki az előrelátható következményekre tekintet nélkül azt teszi, ami a kötelessége (bármiféle értékrend szerint)
+6. Gazdasági racionalitás
+   * A végeredmény egy költség-haszon elemzés szempontjából elfogadható
+   * haszonmaximalizálásra törekvő célracionalitás
+   * Homo economicus
+7. Társadalmi racionalitás
+   * Eddigieknél a saját hasznát maximalizálta (egoista)
+   * Mások javát is maximalizálhatja (altruista)
+
+### Egyénileg lehetünk-e racionaálisak
+
+**Pesszimisták**
+* Olyan keretek között élünk, ahol nem lehetünk racionálisak.
+* Szeretnénk kiválasztani az optimálisat, de korlátok között vagyunk
+
+**Optimisták**
+* Az ember törekszik az optimálisra, attól függetlenül, hogy korlátok között kielégítő megoldáshoz tudunk csak eljutni.
+
+
+### Simon
+
+| Racionális | Korlátozottan racionális |
+|:----------:|:------------------------:|
+| A környzeet minden változója ismert | A környezet komplex |
+| A teljes informáltság lehetséges | Nem lehetséges |
+| A DH képes felmérni az alternatívákat | Kognitív korlátok |
+| A DH nyitott minden alternatívára | a status quo preferált |
+| A DH optimális döntésre törekszik | A DH elég jó döntésre törekszik |
+
+
+### A korlátozott racionalitás alapfolyamatai
+* Az alternatívák szekvenciális kezelése
+  * csak akkor merül fel, ha a probléma megköveteli
+  * az egyszerűbb alternatívákat preferáljuk
+  * az alternatívák kezelését sok tényező befolyásolja
+* heurisztikák
+* kielégítő (stisficing) döntésre törekvés
+
+### Korlátok
+**Információkorlátok**
+
+**Befogadáskor**
+1. Figyelem korlátai
+   1. túl sok inger
+   2. keresés az emlékek között
+      1. emlékek változhatnak
+      2. az emlékeket manipulálhatják
+2. Memória korlátai
+   1. az emlékek tévesek
+   2. átalakítjuk őket
+   3. manipulálhatók
+3. Felfogási korlát
+   1. oksági kapcsolatok megállapítása nehéz
+   2. nehéz látni az összefüggéseket
+4. Kommunikáció korlátai
+   1. kultúrális, generációs, szakterületi különbségek
+   2. töntésre törekvés
+   3. összetett információk átadása nehéz
+
+**Felhasználáskor**
+1. struktúrát keresünk (ott is, ahol nincs)
+2. keresési algoritmusok különbözőek
+3. valószínűségeket nehezen értelmezzük
+4. egyszerre túl sok és túl kevés információ
+
 ## Döntés pszichológia
 ## Csoportos döntések
 ## Társadalmi döntések
