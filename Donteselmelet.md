@@ -39,6 +39,15 @@ A probléma megkérdőjelezhető?
    3. szervezeti
    4. társadalmi
 
+### Howard-féle probléma tér
+
+1. bizonytalanság
+   1. determinisztikus - valószínűségi
+2. idő:
+   1. statikus - dinamikus
+3. komplexitás
+   1. kevés változó - sok változó
+
 ### Problémák típusai
 
 **Jól struktúrált**
@@ -68,6 +77,96 @@ A probléma megkérdőjelezhető?
 
 
 ## Döntéselméleti felfogásmódok
+
+### Filozófiai
+
+**Fő kérdés**
+
+Az egyéni döntés jó-e, igazságos-e.
+
+Attól függ, hogyan definiáljuk a jót és az igazságosat.
+A filozófia korszakonként változik, nagyon szubjektív.
+A filozófia szempontjából az igazságosság és jónak a viszonya fontos.
+
+
+### Klasszikus közgazdasági (Taylor)
+
+> #### Közgazdasági (Adam Smith)
+>
+> A hasznosság az emberi igények kielégítésének képessége
+>
+> **Áll**
+> * Minden kvantifikálható
+> * A piaci érték alapján meg lehet különböztetni a jószágokat
+> * pénzben kifejezhető
+
+
+**Áll**
+* Determinisztikus
+* Teljes informáltság
+* Az eredmények rendezhetők ( a preferencia egyértelmű )
+* A DH hasznosság maximalizáló
+
+**Cáfolata**
+* A kockázat bevezetése (ismert valószínűséggel)
+* Az információ nem teljes
+* A preferencia nem adható meg
+* A DH el fog térni az optimálistól
+
+### Adminisztratív modell
+
+**Áll**
+
+A döntéshozó választásait nem a tényleges, hanem az észlelt világ irányítja. A valószínűségbecslés központi művelete a döntésnek
+
+**Feltételezései**
+* A cselekvések nem adottak, generálni kell
+  (erőforrás igényes, kognitív és idő korlátokba ütközik)
+* Az információk nem állnak rendelkezésre
+* Az információszerzés költséges
+* Az információ pontatlan, a hasznosságbecslés bizonytalan
+
+### Szigorú megerősítés modellje (Skinner)
+
+**Áll**
+
+A DH a korábbi időszak tapasztalatai alapján fogja meghozni a döntéseit.
+
+"Azt a viselkedést, ami jutalomhoz vezet, vagy úgy látszik, hogy jutalomhoz fog vezetni, megismétljük, ami nem fog vagy bűntetést vonhat maga után, nem ismételjük meg"
+
+**Áll**
+* A leghatékonyabb erősítők közvetlen kapcsolatban vannak a döntéssel (időben is közel, és a DH legintenzívebb szükségleteire hatnak)
+* A pozitív megerősítés hatékonyabb, mint a negatív (a bűntetés pedig nem is működik)
+  * negatívból visszaveszünk, az motivál
+  * bűntetés a pozitív inverze (ez nem működik)
+* Megszakításokkal hatékonyabb, mint folyamatosan
+* empírikusan lehet megítélni
+  * nem elég megígérni
+
+
+### Fokozatos hozadékok modellje
+
+Elnevezések:
+* Szabályozott anarchia
+* kis lépések politikája
+* politikai döntéshozatal
+
+Kis lépés egy távoli cél érdekében.
+
+Probléma más modellekkel: "definiáljuk a célt és ehhez keressünk eszközt". Ez bonyolult döntési helyzetben nem működik.
+
+**Jellemzők**
+* Komplex döntési helyzetben alkalmazható
+* nagyszámú, komplex esemény, távoli cél
+* nem lehet minden alternatívát összehasonlítani
+* A DH a múltbeli hasonló alternatívák tényleges eredményeivel hasonlítja össze
+* nincsenek cél-eszköz összevetések
+* nincsen részletes információnk
+* a nagy hibákat elkerülhetjük
+* Az elején nem tudjuk, hogyan érjük el a célt
+* A változások kis lépésben következnek be, nem ugrásszerűen
+
+
 ## Viselkedéstudomány
 ## Korlátozott racionalitás
 ## Döntés pszichológia
