@@ -272,4 +272,78 @@ Igyekszünk a bizonytalanságot egyszerűsíteni, csökkenteni, értelmezhetőv�
 ## Döntés pszichológia
 ## Csoportos döntések
 ## Társadalmi döntések
+
+**Def** Társadalom
+* Nagyobb, mint egy csoport
+* nincs közös cél (kivéve biztonság és harmónia)
+* van szerkezete
+* nem a résztvevők száma számít, hanem a köztük lévő viszony
+
+### Public choice (Alkotmányos választások elmélete)
+* egyéni és társadalmi döntések viszonya, hogyan aggregáljuk
+* szavazás sajátosságai
+
+**Egyéni döntések aggregálása**
+
+Két alternatíva esetén többségi szavazás több kritériumot is teljesít.
+
+Több alternatíva esetén:
+
+Probléma: Relatív többség esetén az átlagosan legkevésbé preferált jelölt is győzhet
+
+pl. 34% - 33% - 33% --> 66% nem támogatja, mégis az első nyert
+
+**Def** Hatékony????
+
+A választó teljes preferencia sorrendjét figyelembe veszi.
+
+Az átlagosan legjobb jelölt nyeri.
+
+pl Borda, Condorcet
+
+Nem használjuk, mert
+* sok az adminisztráció
+* egyértelmű-e a sorrend (Condorcet esetén nem garantált)
+* adatbeviteli hibát visz be
+
+**Szavazás motivációja**
+1. Racionális távolmaradás
+  * közgazdasági alapú: költség haszon alapú
+  * Akkor érdemes szavazni, ha
+    * a szavazásra fordított költség alacsony
+    * a szavazat döntő lehet
+  * Következmény: A racionális választó nem megy el szavazni
+2. Racionális tájékozatlanság
+  * Ez is költség-haszon alapú
+  * A megalapozott döntéshez szükséges információ szerzés költsége nagyobb, mint a döntésből eredő haszon.
+  * Nem biztos, hogy az információ megszerzésének van költsége, hanem
+    * az info megszűrésének
+    * megbízható-e
+    * releváns-e
+    * pontos-e
+  Aránytalanul nagy befolyásra tehetnek szert, akik hivatalból tájékozottak
+3. Vitázó közvéleménykutatás
+  * Irányított vitákban vesznek rész laikusok, szakértők
+  * nagy nyilvánosság előtt
+  * olcsóbban lehet infókhoz hozzájutni.
+  * előtte, utána közvéleménykutatás
+
+### Social choice (Normatív társadalom elméletek)
+* Mik az igazságosság, méltányosság szabályai
+* igazságos elosztás
+* egyéni szabadság
+
+### Igazságosságelméletek
+1. Képességelmélet (Sen)
+  * A megfelelő életvezetési szintet mindenki megközelítse
+  * Meglévő jövedelmei eloszlásának felhasználásában nincs szabadságunk, mert a képességeink korlátozzák
+  * Nem a jövedelemelszlás az igazságosság alapja
+2. Méltányosságelmélet (Ramis)
+  * Legnagyobb előnyt a leghátrányosabb helyzetűeknek kell biztosítani
+  * A legszegényebbnek adjuk a legnagyobb kedvezményt
+  * Nem az összhasznot maximalizáljuk
+3. Utilitarizmus (Harsányi)
+  * Annak kell adni, aki a legjobban tudja hasznosítani
+  * Cél a társadalom összhasznának a maximalizálása
+
 ## Kockázat
