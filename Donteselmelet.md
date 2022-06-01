@@ -215,12 +215,36 @@ Igyekszünk a bizonytalanságot egyszerűsíteni, csökkenteni, értelmezhetőv�
 
 ### Egyénileg lehetünk-e racionaálisak
 
+Ha az emberek racionálisak, torzítások, tévedések miatt nem igazolható.
+
+Ha irracionálisak, akkor találunk ellenpéldát
 **Pesszimisták**
 * Olyan keretek között élünk, ahol nem lehetünk racionálisak.
 * Szeretnénk kiválasztani az optimálisat, de korlátok között vagyunk
+* Érvek:
+  * Ítéletalkotás torzítása
+    * A hasznosságítéletek sem racionálisak a heurisztikák miatt, így nem várható tőlük kielégülés
+    * inkonzisztens döntésekhez vezethet
+  * Problémamegjelenítés hibái
+    * Kahnemann: nyereség, és veszteség külön számolás (mentális számlák)
+  * Döntési helyzet megoldásának defektusai
+    * Nem kognitív, hanem motivációs jellegű probléma
+    * Az emberek nem elég motiváltak, hogy asszimilálják és kombinálják az infókat
+    * Nem használják fel az forrásaikat
 
 **Optimisták**
 * Az ember törekszik az optimálisra, attól függetlenül, hogy korlátok között kielégítő megoldáshoz tudunk csak eljutni.
+* Érvek:
+  * Metaracionalitás érve
+    * A döntés költségeit vetjük össze a döntésből származó előnyökkel 
+    * Ha sért valamilyen racionalitást, de figyelembe vesszük a racionális viselkedés kognitív kötségét, racionálisnak tekinthető
+  * Folytonosság érve
+    * Hibás feltételezni a valószínűségi folyamatok statikus jellegét és az ítéletek hatásainak függetlenségét
+    * Ha egy folytonos folyamatból egy pillanatot ragadunk ki irracionálisnak tűnhet
+    * Ez a célok és preferenciák változásával magyarázható
+  * Struktúraérv
+    * Az elméletek elhanyagolják a személy belső struktúrális problémamegjelenítését
+    * A DH a "kis világával" konzisztens döntésre törekszik.
 
 
 ### Simon
