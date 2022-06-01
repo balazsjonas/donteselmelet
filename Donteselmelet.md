@@ -371,3 +371,93 @@ Nem használjuk, mert
   * Cél a társadalom összhasznának a maximalizálása
 
 ## Kockázat
+
+**Def** Bizonytalanság
+
+Ismeretlen eloszlások
+
+**Def** Kockázat
+
+mérhető bizonytalanság, ismert valószínűségek
+
+### Kockázat megközelítések
+* Nem kívánatos következményről gondolkodunk (szemben a közgazdászokkal, akiknél a kockázat szimmetrikus, az átlagtól való eltérés)
+* Ezek a nemkívánatos események lehetségesek
+* A döntések kontextusa mögött különboző valóságról alkotott képek vannak
+
+### Technikai (műszaki) kockázatfelfogás
+
+* számszerűsíthető
+* statisztikai módszerekkel elemezhető
+* "objektív" kockázatértékelés végehzető
+* valséggel súlyozott negatív hatások
+
+**kritikái**
+* A múltbeli adatok nem feltétlenül igazak a jövőben
+* rejtett alapfeltevések lehetnek
+* a "nemkívánatosság" értékrend függő
+* valség és hatás mérése szubjektív, de ez ami a leginkább objektivizálható.
+
+### Közgazdasági kockázatfelfogás
+
+* Egy döntés negatív és pozitív hatásait egyaaránt figyelembe kell venni
+* cél a társadalmi haszon maximalizálása
+  * az előnyök megőrzése, és a kockázatok csökkentése
+
+**kritikái**
+* A kockázatokra vonoatkozó preferenciák aggregálása problémás
+* Az emberi élet értékelésének dilemmája
+* Nem csak a preferencia, de a motiváció is számít
+* A kockázatok eloszlásának kérdése
+
+### Pszichológiai/pszichometriai megközelítés
+
+* 2 dimenzió: mennyire félelmetes vs mennyire ismeretlen
+
+**kritikái**
+* nehéz levonni belőle hasznosítható következtetéseket
+* minden "attól függ"
+* különböző egyéni preferenciákat nehéz aggregálni
+* társadalmi hatásokat nem veszi figyelembe
+
+### Szociológiai/antropológiai megközelítés
+
+* A kockázatfelfogás kultúra függő
+* 2 dimenzió: szabályrendszer erőssége vs csoport identifikáció erőssége
+  * Individualista (laza szabály, gyenge csoport)
+  * Egalitáriánus (laza szabály, erős csoport)
+    * az összetartozás ad biztonságot
+  * Hierarchisták (szoros szabály, erős csoport)
+    * meghatározott rendszer ad biztonságot
+  * Fatalista (szoros szabály, gyenge csoport)
+
+**kirtikái**
+* Túlságosan leegyszerűsítő
+* gyengébb lábaokn áll
+* elméleti megalapozottság hiánya
+
+
+### Kockázatkezelési stratégiák
+
+1. kockázat elkerülése
+2. kockázat megelőzése
+3. negatív következmények enyhítése
+4. negatív következmények kompenzálása
+
+### Valószínűségek
+
+**Objektív valószínűség**
+
+* a relatív gyakoriság határértéke
+* rutin döntéseknél használható
+
+**Szubjektív valószínűség**
+
+* információkon, hiedelmeken alapul
+
+**Bizonytalanság csökkentő módszerek**
+* várhatóérték (mind a szubjektív, minda az objektív valószínűségekre alkalmazható)
+* Döntési fa
+  * visszafelé számolunk
+  * a valószínűséget ismerni/mérni kell
+* kifizetési mátrix
