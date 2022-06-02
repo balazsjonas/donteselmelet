@@ -294,6 +294,27 @@ Ha irracionálisak, akkor találunk ellenpéldát
 4. egyszerre túl sok és túl kevés információ
 
 ## Döntés pszichológia
+
+### Heurisztikák
+1. Reprezentativitás
+  * érzéketlenség a prior valségekkel szemben
+  * szetereotípiák
+2. Mintanagysággal szembeni érzéketlenség
+  * Kis számokra nem igaz a nagy számok törvénye
+3. Játékos tévedése
+  * független események közé gondolunk függőséget
+4. Hozzáférhetőség
+  * amire könnyebb emlékezni
+	* gyakrabb
+	* sikeres
+	* élénk
+	* konkrét
+	* személyes tapasztalat
+5. Horgony
+6. Visszatekintő torzítás
+  * megtörtént dolgokra úgy gondolunk vissza, mintha másképp nem is történhetett volna.
+7. ...
+
 ## Csoportos döntések
 
 **Előnyök**
