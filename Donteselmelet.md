@@ -295,6 +295,63 @@ Ha irracionálisak, akkor találunk ellenpéldát
 
 ## Döntés pszichológia
 ## Csoportos döntések
+
+**Előnyök**
+* jobb lehet, több szem többet lát
+* könnyebben elfogadható
+* érintettek bevonása
+
+**Hátrányok**
+* nem az egyéni döntések átlaga
+* a szavazás nem hatékony
+* konszenzus hatékonyabb
+
+### Csoport
+* face to face
+* fizikai közelség (to be updated)
+* csoportnak teikintik magukat ("mi érzés")
+* közös célok, érdekek, normák
+* szerepdifferenciálódás
+* státuszelosztás
+* egyéni viselkedést mások befolyásolják
+* viszonylag hosszú ideig áll fenn
+
+### Csoportméret növekedése
+
+**Előnyök**
+* nagyobb szakértelem
+* több szem
+* könnyebb végrehajtás (nem mindig)
+* többféle problémaközelítés
+* könnyebb kommunikáció
+
+* **Hátrányok**
+* interakciók száma csökken
+* elszemélytelenedés
+* domináns személyek szerepe megnő
+* elvi síkon vitáznak
+* koordináció nehezebb
+
+### Csoportalakulás lépései (Tuckman)
+1. Forming
+2. Storming
+3. Norming
+4. Performing
+
+### Csoportos döntési folyamatok
+
+### Coportgondolkodás csapdái
+
+### Csoportgondolkodás elkerülése
+
+* nyílt vita támogatása
+* csoport vezetője nem azonosul semmilyen állásponttal
+* van ördög ügyvédje
+* külső szakértők bevonása
+* részcsoportok kialakítása
+* működés tökéletlenségeinek felismerése
+* "második esély" ülés, fennmaradó kétségek megbeszélése
+
 ## Társadalmi döntések
 
 **Def** Társadalom
