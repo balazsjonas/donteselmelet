@@ -25,8 +25,8 @@ A probléma megkérdőjelezhető?
 
 1. Típus
    1. konceptuális (formális, mindenki számára egyértelmű)
-   2. emírikus (tapasztalat alapján meghatározható)
-   3. viselkedési
+   2. emírikus (elméleten kívül megfigyelésre is szükség van, tapasztalat alapján meghatározható)
+   3. viselkedési (egy vagy több személy tevékenysége alkotja a problémát. Empírikus része az emberi észleléssel kapcsolatosak)
    4. társadalmi
 2. DH fázis
    1. felismerés
